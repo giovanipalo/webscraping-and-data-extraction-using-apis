@@ -15,7 +15,11 @@ Você pode instalar essas bibliotecas usando o pip:
 
 ```bash
 pip install requests sqlite3 pandas beautifulsoup4
+<<<<<<< HEAD
+```
+=======
 ´´´
+>>>>>>> 8e81cf9c26e1affe908f66be4c6345b414017c14
 
 ## Uso:
 
