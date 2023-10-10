@@ -26,5 +26,3 @@ Para executar o projeto, siga os passos abaixo:
 3. Execute o arquivo `main.py`.
 
 Isso iniciará o processo de extração de dados da página da web, criação de um DataFrame, salvamento em um arquivo CSV e armazenamento em um banco de dados SQLite.
-
-Lembre-se de substituir "seu-usuario" e "seu-repositorio" pelos seus próprios detalhes.
