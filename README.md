@@ -15,23 +15,19 @@ Você pode instalar essas bibliotecas usando o pip:
 
 ```bash
 pip install requests sqlite3 pandas beautifulsoup4
-<<<<<<< HEAD
 ```
-=======
-´´´
->>>>>>> 8e81cf9c26e1affe908f66be4c6345b414017c14
 
 ## Uso:
 
 Siga estas etapas:
 
-# Clone o repositório para sua máquina local:
+### Clone o repositório para sua máquina local:
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-# Navegue para o diretório do projeto:
+### Navegue para o diretório do projeto:
 cd seu-repositorio
 
-# Execute o script Python:
+### Execute o script Python:
 python nome-do-script.py
 
 Isso iniciará o processo de extração de dados da página da web, criação de um DataFrame, salvamento em um arquivo CSV e armazenamento em um banco de dados SQLite.
